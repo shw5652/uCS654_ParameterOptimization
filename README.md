@@ -23,3 +23,7 @@ The dataset was created in a project that aims to contribute to the reduction of
 The dataset includes information known at the time of student enrollment – academic path, demographics, and social-economic factors. 
 
 The problem is formulated as a three category classification task (dropout, enrolled, and graduate) at the end of the normal duration of the course.
+
+
+![image](https://github.com/shw5652/uCS654_ParameterOptimization/assets/103035818/815972f2-ab34-42f2-b909-29b29da3aa82)
+
