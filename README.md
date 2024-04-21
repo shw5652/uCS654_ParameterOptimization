@@ -25,5 +25,6 @@ The dataset includes information known at the time of student enrollment – aca
 The problem is formulated as a three category classification task (dropout, enrolled, and graduate) at the end of the normal duration of the course.
 
 
-![image](https://github.com/shw5652/uCS654_ParameterOptimization/assets/103035818/815972f2-ab34-42f2-b909-29b29da3aa82)
+![image](https://github.com/shw5652/uCS654_ParameterOptimization/assets/103035818/f254828b-f6db-4172-8144-7b118cfd7d0f)
+
 
